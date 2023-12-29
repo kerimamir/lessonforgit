@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(0, 148, 12);
+    justify-content: end;
+}
+.card{
+    display: flex;
+    justify-content: end;
+}
+.card3{
+    position: relative;
+    top: -70px;
+}
+.card4{
+    position: relative;
+    top: -140px;
+}
+.card5{
+    position: relative;
+    top: -220px;
+}
+.card6{
+    right: 200px;
+}
